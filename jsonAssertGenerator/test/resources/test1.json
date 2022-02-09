@@ -1,0 +1,26 @@
+{
+  "id": 1,
+  "name": "VUE1",
+  "nameFond": "hdr-tech",
+  "parent": 0,
+  "filters": [],
+  "validator": null,
+  "gad": [
+    {
+      "id": 1,
+      "name": "GROUPEAD1",
+      "fonds": [
+        "documents-entrants"
+      ],
+      "filters": []
+    }
+  ],
+  "obj": {
+    "toto1": "éhéh",
+    "toto2": [
+      {"a": "b"},
+      {"a": "c"}
+    ]
+  },
+  "cols": []
+}

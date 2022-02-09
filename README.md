@@ -3,7 +3,7 @@
 ## installation
 
 ```sh
-cd jsonassertgenerator
+cd jsonAssertGenerator
 npm install
 npm run test
 ```
